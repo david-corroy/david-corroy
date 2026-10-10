@@ -1,29 +1,35 @@
 # Bernard David Corroy
 
-**Consultant SEO & GEO indépendant** — je rends les entreprises visibles sur Google **et citées par les IA** (ChatGPT, Perplexity, Gemini, AI Overviews).
+Consultant SEO et GEO indépendant, à Valenciennes. Je fais du référencement depuis 2004. J'ai lancé Phonandroid en 2010, monté à plus de 10 millions de visites par mois avant sa revente au Groupe Figaro, puis j'ai dirigé la technique et le trafic de Tom's Guide et de Tom's Hardware France chez Galaxie Media.
 
-- 🔍 Expert SEO depuis **2004**, dans le numérique depuis 1998
-- 🚀 Fondateur de **Phonandroid** (10M+ visiteurs/mois, revendu au **Groupe Figaro** en 2022), PaperGeek, PlusDeBonsPlans
-- 📈 Ex-Directeur Technique & Trafic chez Galaxie Media (Tom's Guide, Tom's Hardware, TechRadar France)
-- 🤖 Créateur de la **méthode CITE** (Cartographie · Identité · Texte citable · Écho) pour la visibilité dans les IA génératives
-- 📍 Valenciennes, France — interventions partout en France et à distance
+Aujourd'hui, je mesure ce que ChatGPT, Perplexity et le Mode IA de Google répondent quand on leur demande un professionnel, et je publie les chiffres avec la méthode.
 
-## 🧰 En libre accès
+## Mesures publiées
 
-| Ressource | Description |
+| Étude | Date | Ce qu'on y trouve |
+|---|---|---|
+| [Baromètre de la visibilité IA, édition 01](https://www.david-corroy.com/barometre-visibilite-ia/) | septembre 2026 | Les experts-comptables de Lille cités par trois IA, sur 90 réponses relevées, avec les sources affichées |
+| [Baromètre, édition 02](https://www.david-corroy.com/barometre-ia-avocats-lille/) | 29/09/2026 | Les avocats de Lille cités par les mêmes trois IA |
+| [Travaux et données](https://www.david-corroy.com/travaux-et-donnees/) | mis à jour en continu | L'index des études, et la méthode pour refaire la mesure chez vous |
+
+## Dépôts
+
+| Dépôt | Contenu |
 |---|---|
-| [📚 Bibliothèque de prompts GEO](https://github.com/david-corroy/prompts-geo) | La première bibliothèque française de prompts GEO — 19 prompts avec protocole et grille de lecture |
-| [🗓️ 30 jours pour être cité par ChatGPT](https://www.david-corroy.com/prompts-geo/plan-30-jours/) | Le plan guidé, une action de 10-30 min par jour |
-| [🔬 Audit express SEO & GEO](https://www.david-corroy.com/audit-express/) | Score SEO + visibilité IA en 60 secondes, gratuit |
-| [🤖 Générateur de llms.txt](https://www.david-corroy.com/generateur-llms-txt/) | Le fichier que les IA lisent pour comprendre votre site |
-| [✍️ Générateur de prompts](https://www.david-corroy.com/generateur-prompts/) | Une idée floue → un prompt structuré |
+| [prompts-geo](https://github.com/david-corroy/prompts-geo) | 19 prompts GEO en français, chacun avec son protocole, sa grille de lecture et ses limites |
+| [grille-suivi-visibilite-ia](https://github.com/david-corroy/grille-suivi-visibilite-ia) | Un tableur pour suivre chaque mois si ChatGPT, Perplexity et Gemini vous citent |
+| [skills-seo-geo](https://github.com/david-corroy/skills-seo-geo) | 25 skills SEO et GEO en français pour Claude Code |
+| [skills-marketing-fr](https://github.com/david-corroy/skills-marketing-fr) | 47 skills marketing en français pour Claude Code, RGPD compris |
+| [html-head-seo](https://github.com/david-corroy/html-head-seo) | Ce que Google, les IA et les réseaux sociaux lisent dans la balise head, en français, anglais et espagnol |
+| [ba-avif](https://github.com/david-corroy/ba-avif) | Extension WordPress de conversion AVIF et WebP, pensée pour l'hébergement mutualisé |
+| [ba-affilizz-schema](https://github.com/david-corroy/ba-affilizz-schema) | Données structurées produit pour les blocs Affilizz dans WordPress |
 
-## 📖 Guides de référence (français)
+## Outils en ligne, gratuits
 
-[Qu'est-ce que le GEO ?](https://www.david-corroy.com/quest-ce-que-le-geo/) · [Être cité par ChatGPT](https://www.david-corroy.com/etre-cite-par-chatgpt/) · [GEO vs SEO vs AEO](https://www.david-corroy.com/geo-vs-seo-vs-aeo/) · [Entité SEO](https://www.david-corroy.com/entite-seo/) · [Écrire un prompt fiable](https://www.david-corroy.com/prompts-geo/ecrire-un-prompt-fiable/)
+[Plan de 30 jours pour être cité par ChatGPT](https://www.david-corroy.com/prompts-geo/plan-30-jours/) · [Audit express SEO et GEO](https://www.david-corroy.com/audit-express/) · [Générateur de llms.txt](https://www.david-corroy.com/generateur-llms-txt/) · [Générateur de prompts](https://www.david-corroy.com/generateur-prompts/)
 
-## 🌐 Me trouver
+## Vérifier
 
-[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Malt](https://www.malt.fr/profile/davidcorroy) · [Wikidata](https://www.wikidata.org/entity/Q140472682) · [Crunchbase](https://www.crunchbase.com/person/bernard-david-corroy)
+Mon parcours est sourcé sur [Wikipédia (PhonAndroid)](https://fr.wikipedia.org/wiki/PhonAndroid), [Wikidata](https://www.wikidata.org/entity/Q140472682) et la page [Réalisations](https://www.david-corroy.com/realisations/) de mon site.
 
-> Ma philosophie : la méthode est publique, vérifiable et gratuite — **ce que je facture, c'est l'exécution.**
+[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Malt](https://www.malt.fr/profile/davidcorroy)
