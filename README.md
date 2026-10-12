@@ -56,4 +56,4 @@ Toutes les études, avec la méthode pour refaire la mesure chez vous : [Travaux
 
 Le parcours est sourcé sur [Wikipédia (PhonAndroid)](https://fr.wikipedia.org/wiki/PhonAndroid), [Wikidata](https://www.wikidata.org/entity/Q140472682) et la page [Réalisations](https://www.david-corroy.com/realisations/) de mon site.
 
-[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Hugging Face](https://huggingface.co/david-corroy) · [Malt](https://www.malt.fr/profile/davidcorroy)
+[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Hugging Face](https://huggingface.co/david-corroy) · [ORCID](https://orcid.org/0009-0007-7807-6055) · [Malt](https://www.malt.fr/profile/davidcorroy)
