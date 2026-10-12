@@ -24,6 +24,8 @@ Mêmes 3 IA, 90 réponses relevées les 23, 25 et 29 septembre. 146 avocats et c
 **Les classements « top 10 » dans les sources des IA** (octobre 2026)
 20 questions « quel est le meilleur… » posées le 23 septembre, puis 591 pages sources classées une par une. Les classements font 25 % des sources de ChatGPT, 68 % chez Perplexity et 64 % dans le Mode IA de Google.
 
+Les classements des deux éditions, IA par IA, sont aussi consultables sur [Hugging Face](https://huggingface.co/spaces/david-corroy/barometre-visibilite-ia).
+
 Toutes les études, avec la méthode pour refaire la mesure chez vous : [Travaux et données](https://www.david-corroy.com/travaux-et-donnees/).
 
 ## Dépôts
@@ -54,4 +56,4 @@ Toutes les études, avec la méthode pour refaire la mesure chez vous : [Travaux
 
 Le parcours est sourcé sur [Wikipédia (PhonAndroid)](https://fr.wikipedia.org/wiki/PhonAndroid), [Wikidata](https://www.wikidata.org/entity/Q140472682) et la page [Réalisations](https://www.david-corroy.com/realisations/) de mon site.
 
-[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Malt](https://www.malt.fr/profile/davidcorroy)
+[david-corroy.com](https://www.david-corroy.com/) · [LinkedIn](https://www.linkedin.com/in/bernard-david-corroy/) · [Hugging Face](https://huggingface.co/david-corroy) · [Malt](https://www.malt.fr/profile/davidcorroy)
