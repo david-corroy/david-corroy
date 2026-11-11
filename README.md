@@ -6,7 +6,7 @@ Aujourd'hui, je mesure ce que ChatGPT, Perplexity et le Mode IA de Google répon
 
 ## Ma pile
 
-[![Ma pile technique](https://skillicons.dev/icons?i=wordpress,php,python,fastapi,js,ts,nodejs,astro,mysql,cloudflare,linux,bash,git)](https://skillicons.dev)
+[![Ma pile technique](https://skillicons.dev/icons?i=wordpress,php,python,fastapi,js,ts,nodejs,astro,mysql,cloudflare,linux,windows,apple,bash,git)](https://skillicons.dev)
 
 WordPress et PHP pour les sites que j'exploite, Python et FastAPI pour les mesures et les relevés automatisés, TypeScript et Astro pour les outils et les sites vitrines, Cloudflare devant tout ça. Les études publiées ici sont produites par des scripts que j'écris moi-même, pas par un outil du marché.
 
