@@ -4,6 +4,12 @@ Consultant SEO et GEO indépendant, à Valenciennes. Je fais du référencement 
 
 Aujourd'hui, je mesure ce que ChatGPT, Perplexity et le Mode IA de Google répondent quand on leur demande un professionnel, et je publie les chiffres avec la méthode.
 
+## Ma pile
+
+[![Ma pile technique](https://skillicons.dev/icons?i=wordpress,php,python,js,nodejs,astro,mysql,cloudflare,linux,bash,git)](https://skillicons.dev)
+
+WordPress et PHP pour les sites que j'exploite, Python pour les mesures et les relevés automatisés, Astro pour les sites vitrines, Cloudflare devant tout ça. Les études publiées ici sont produites par des scripts que j'écris moi-même, pas par un outil du marché.
+
 ## Actualités
 
 - **10/10/2026** · Première version numérotée de [skills-seo-geo](https://github.com/david-corroy/skills-seo-geo/releases/tag/v1.0.0) et de [skills-marketing-fr](https://github.com/david-corroy/skills-marketing-fr/releases/tag/v1.0.0).
@@ -39,6 +45,12 @@ Toutes les études, avec la méthode pour refaire la mesure chez vous : [Travaux
 | [html-head-seo](https://github.com/david-corroy/html-head-seo) | Ce que Google, les IA et les réseaux sociaux lisent dans la balise head, en français, anglais et espagnol |
 | [ba-avif](https://github.com/david-corroy/ba-avif) | Extension WordPress de conversion AVIF et WebP, pensée pour l'hébergement mutualisé |
 | [ba-affilizz-schema](https://github.com/david-corroy/ba-affilizz-schema) | Données structurées produit pour les blocs Affilizz dans WordPress |
+
+## Mes sites
+
+- [david-corroy.com](https://www.david-corroy.com) : mon site de consultant, les études et les outils gratuits
+- [seoround.com](https://seoround.com) : SeoRound, votre site comparé à vos concurrents sur Google et dans les IA
+- [buzzarena.com](https://www.buzzarena.com) : média tech que j'édite, 4 500 articles, actualité et guides d'achat
 
 ## Outils en ligne, gratuits
 
